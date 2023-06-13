@@ -1,0 +1,44 @@
+h1, p, .nav-link{
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-image: url(../images/street.jpg);
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+li {
+    margin-left: 1em;
+}
+
+img {
+    margin: auto;
+    display: block;
+    width: 100px;
+}
+
+.btn {
+    margin-left: 20px;
+    outline-offset: 50px;
+}
+
+.navbar-toggler-icon {
+    background-image: url(../images/pepesad.png);
+}
+
+.githublink {
+    text-align: center;
+}
+
+.navlink {
+    text-align: center;
+}
+
+p.card-text {
+    color: black;
+}
