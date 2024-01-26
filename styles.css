@@ -4,7 +4,8 @@ h1, p, .nav-link{
 }
 
 body {
-    background-image: url(../images/street.jpg);
+    /* background-image: url(../images/street.jpg); */
+    background-color: black;
 }
 
 ul {
